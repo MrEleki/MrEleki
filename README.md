@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: elekieatsbeans in discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like beans
+- ⚡ Fun fact: i like beans and touhou and pokémon and balatro and
 
 <!---
 MrEleki/MrEleki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 - 👋 sup
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning Python, Javascript and SQL
+- 🌱 I’m currently learning Python, PHP and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: elekieatsbeans in discord
+- 📫 How to reach me: elekieatsbeans in discord, also you can send me a message to mreleki@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like beans and touhou and pokémon and balatro and dead cells and
 - 
